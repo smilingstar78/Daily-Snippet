@@ -1,0 +1,3 @@
+print("I AM TIRED")
+
+#20TH JINE, 2025, FRIDAY, 9:40PM
